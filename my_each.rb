@@ -4,6 +4,5 @@ def my_each(words)
   yield words[x]
   x = x + 1
   end
-  # put argument(s) here
-  # code here
+words
 end
